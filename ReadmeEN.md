@@ -1,4 +1,4 @@
-[中文](.README.md)
+[中文](./README.md)
 
 # Ear Reader
 Ear Reader is an application that solves fragmented time.
