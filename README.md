@@ -1,4 +1,4 @@
-[English](.ReadmeEN.md)
+[English](./ReadmeEN.md)
 
 # 耳朵阅读
 耳朵阅读是一款解决碎片化时间的应用程序。
